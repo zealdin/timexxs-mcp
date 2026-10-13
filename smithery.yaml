@@ -1,0 +1,8 @@
+# Remote (hosted) MCP server — no local build or start command.
+# The server is already deployed; register it on Smithery via "Add external/remote server"
+# with one of the URLs below. Authentication is OAuth 2.1 (discovery + dynamic client registration).
+runtime: "external"
+deploymentUrl: "https://mcp.timexxs.com/kgc"
+# Other endpoints:
+#   https://mcp.timexxs.com/ks
+#   https://mcp.timexxs.com/kf

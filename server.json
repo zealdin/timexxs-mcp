@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.zealdin/timexxs-mcp",
+  "title": "Timexxs MCP (Kuaigongchang / Kuaishi / Kuaifa)",
+  "description": "Remote MCP for AI content creation, short-video account matrix management and multi-platform analytics.",
+  "repository": {
+    "url": "https://github.com/zealdin/timexxs-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://mcp.timexxs.com",
+  "version": "1.0.0",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://mcp.timexxs.com/kgc" },
+    { "type": "streamable-http", "url": "https://mcp.timexxs.com/ks" },
+    { "type": "streamable-http", "url": "https://mcp.timexxs.com/kf" }
+  ]
+}
