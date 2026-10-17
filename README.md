@@ -1,6 +1,6 @@
 # timexxs-mcp
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/zealdin/timexxs-mcp)](https://m8ven.ai/mcp/zealdin/timexxs-mcp?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/zealdin-timexxs-mcp-1lyxtq?v=627009f765b2b6e39b86ffe6ce36da50)](https://m8ven.ai/mcp/zealdin-timexxs-mcp-1lyxtq?s=readme)
 
 省点时间 MCP 开放平台的公开文档仓库（仅文档，不含服务端代码）。 · Public docs for the Timexxs (省点时间) remote MCP servers. Docs only, no server code.
 
